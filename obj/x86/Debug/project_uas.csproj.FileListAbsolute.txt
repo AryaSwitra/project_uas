@@ -1,0 +1,8 @@
+C:\Users\ACER\Desktop\kumpulan Tugas Kuliah\semester 5\pembrograman visual\visual\latihan 4\project_uas\project_uas\bin\Debug\project_uas.exe
+C:\Users\ACER\Desktop\kumpulan Tugas Kuliah\semester 5\pembrograman visual\visual\latihan 4\project_uas\project_uas\bin\Debug\project_uas.pdb
+C:\Users\ACER\Desktop\kumpulan Tugas Kuliah\semester 5\pembrograman visual\visual\latihan 4\project_uas\project_uas\obj\x86\Debug\project_uas.Form1.resources
+C:\Users\ACER\Desktop\kumpulan Tugas Kuliah\semester 5\pembrograman visual\visual\latihan 4\project_uas\project_uas\obj\x86\Debug\project_uas.Properties.Resources.resources
+C:\Users\ACER\Desktop\kumpulan Tugas Kuliah\semester 5\pembrograman visual\visual\latihan 4\project_uas\project_uas\obj\x86\Debug\project_uas.csproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\kumpulan Tugas Kuliah\semester 5\pembrograman visual\visual\latihan 4\project_uas\project_uas\obj\x86\Debug\project_uas.exe
+C:\Users\ACER\Desktop\kumpulan Tugas Kuliah\semester 5\pembrograman visual\visual\latihan 4\project_uas\project_uas\obj\x86\Debug\project_uas.pdb
+C:\Users\ACER\Desktop\kumpulan Tugas Kuliah\semester 5\pembrograman visual\visual\latihan 4\project_uas\project_uas\obj\x86\Debug\project_uas.csprojResolveAssemblyReference.cache
